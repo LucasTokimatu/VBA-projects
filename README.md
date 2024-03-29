@@ -15,7 +15,9 @@
 
 ## Projeto 1
 Formulário com alguns fundamentos básicos do VBA<br> <br>
-<strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
+<ul>
+  strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
+</ul>
 
 ## Projeto 2
 Formulário com alguns fundamentos básicos do VBA<br> <br>
