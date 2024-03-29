@@ -21,7 +21,7 @@ Formulário com alguns fundamentos básicos do VBA
 <strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
 
 # Projeto 3
-Formulário incompleto com alguns fundamentos básicos do VBA
+Formulário incompleto com alguns fundamentos básicos do VBA <br>
 <strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
 
 # Projeto 4
