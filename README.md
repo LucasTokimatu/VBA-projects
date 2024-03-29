@@ -16,34 +16,46 @@
 ## Projeto 1
 Formulário com alguns fundamentos básicos do VBA<br> <br>
 <ul>
-  <strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
+  <li><strong>Problema</strong>: treinamento dos fundamentos básicos do VBA</li>
 </ul>
 
 ## Projeto 2
 Formulário com alguns fundamentos básicos do VBA<br> <br>
-<strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
+<ul>
+  <li><strong>Problema</strong>: treinamento dos fundamentos básicos do VBA</li>
+</ul>
 
 ## Projeto 3
-Formulário incompleto com alguns fundamentos básicos do VBA <br> <br>
-<strong>Problema</strong>: treinamento dos fundamentos básicos do VBA
+Formulário incompleto com alguns fundamentos básicos do VBA<br> <br>
+<ul>
+  <li><strong>Problema</strong>: treinamento dos fundamentos básicos do VBA</li>
+</ul>
 
 ## Projeto 4
 Formulário incompleto com alguns fundamentos básicos do VBA <br> <br>
-<strong>Problema</strong>: muitos alunos de Administração, nas aulas de Contabilidade e Adminstração Financeira, precisam realizar fórmulas para calcular resultados como liquidez da empresa. Como facilitar e ajudar esses alunos no aprendizado de algumas dessas fórmulas? <br>
-<strong>Solução</strong>: programação de uma calculadora que calcula algumas dessas fórmulas dessas disciplinas automaticamente, contribuindo no processo de aprendizado. 
+<ul>
+<li><strong>Problema</strong>: muitos alunos de Administração, nas aulas de Contabilidade e Adminstração Financeira, precisam realizar fórmulas para calcular resultados como liquidez da empresa. Como facilitar e ajudar esses alunos no aprendizado de algumas dessas fórmulas?</li>
+<li><strong>Solução</strong>: programação de uma calculadora que calcula algumas dessas fórmulas dessas disciplinas automaticamente, contribuindo no processo de aprendizado. </li>
+</ul>
 
 ## Projeto 5
-Formulário com alguns fundamentos básicos do VBA <br> <br>
-<strong>Problema</strong>: treinamento dos fundamentos básicos do VBA 
+Formulário com alguns fundamentos básicos do VBA<br> <br>
+<ul>
+  <li><strong>Problema</strong>: treinamento dos fundamentos básicos do VBA</li>
+</ul>
 
 ## Projeto 6
-Formulário  com alguns fundamentos básicos do VBA <br> <br>
-<strong>Problema</strong>: praticar a realização de um campo de procura para um formulário no VBA
+Formulário com alguns fundamentos básicos do VBA<br> <br>
+<ul>
+  <li><strong>Problema</strong>: treinamento dos fundamentos básicos do VBA</li>
+</ul>
 
 ## Projeto 7
 Planilha com gráficos e formulário <br> <br>
-<strong>Problema</strong>: De que forma apresentar os dados de vendas de uma forma visual, automatizada, moderna acessível para os usuários? <br>
-<strong>Solução</strong>: realização de gráficos e botões dinâmicos, bem como de um formulário para atualização do banco de dados.
+<ul>
+  <li><strong>Problema</strong>: De que forma apresentar os dados de vendas de uma forma visual, automatizada, moderna acessível para os usuários?</li>
+  <li><strong>Solução</strong>: realização de gráficos e botões dinâmicos, bem como de um formulário para atualização do banco de dados.</li>
+</ul>
 
 ## Contact me
 Caso queira entrar em contato, mande-me um email no endereço: <a>lucastokimatu@gmail.com</a>
