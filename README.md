@@ -11,6 +11,7 @@
 - [Projeto 5](#Projeto-5)
 - [Projeto 6](#Projeto-6)
 - [Projeto 7](#Projeto-7)
+- [Contact me](#Contact-me)
 
 # Projeto 1
 Formulário com alguns fundamentos básicos do VBA<br> <br>
@@ -41,3 +42,6 @@ Formulário  com alguns fundamentos básicos do VBA <br> <br>
 Planilha com gráficos e formulário <br> <br>
 <strong>Problema</strong>: De que forma apresentar os dados de vendas de uma forma visual, automatizada, moderna acessível para os usuários? <br>
 <strong>Solução</strong>: realização de gráficos e botões dinâmicos, bem como de um formulário para atualização do banco de dados.
+
+# Contact me
+Caso queira entrar em contato, mande-me um email no endereço: <a>lucastokimatu@gmail.com</a>
